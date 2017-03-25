@@ -1,5 +1,5 @@
-#include <stdlib>
+#include <stdio.h>
 
 int main(){
-	printf("Hola Pelr");
+	printf("Hola Pelr\n");
 }
